@@ -1,0 +1,9 @@
+# Overview
+The Role is an ongoing roleplay started sometime between 2015 and 2016 by authors "SG" and "SB". Names are obscured for privacy reasons. It's story entails [[Samuel Hawkins|]]Samuel Hawkins and Sunflight Spearwind's adventures through the Layers of Reality. The Role was / is written using:
+- iMessage Messages
+- SMS Messages
+- Signal Messages.
+Archived transcripts from January 6, 2019 to April 13, 2022 exist.
+
+Transcripts before January 6, 2019 are considered lost forever.
+
