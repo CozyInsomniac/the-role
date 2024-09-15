@@ -154,34 +154,23 @@
 * * *
 
 # Gallery
-```litegal
-sunflight-sketch.png
-```
-## Images
-### Sunflight, Human Form, (Drawn by ???)
-![[quartz/public/Special-Folders/Attachments/sunflight-sketch.jpg]]
+**Old Sunflight Sketch 1 (By ???)**
+![[sunflight-sketch.png]]
 ***
-### Sunflight, Half Form, Age 16 (Drawn by Lunarjaguar)
-
-![[quartz/public/Special-Folders/Attachments/sunflight-lunarjaguar.png]]
-
-* * *
-
-### Sunflight, Dragon Form (Drawn by Stellarfaux)
-
-![[quartz/public/Special-Folders/Attachments/sunflight-flying-art.jpeg]]
-
-* * *
-
-### Swingshot (Drawn by Sparks)
-
-![[quartz/public/Special-Folders/Attachments/swingshot-gif.jpeg]]
-
-![[quartz/public/Special-Folders/Attachments/swingshot-gif-2.jpeg]]
-
-![[quartz/public/Special-Folders/Attachments/swingshot-1.jpeg]]
+**Old Sunflight Sketch 2 (by ???)**
+![[sunflight-sketch.jpg]]
 ***
-### Sunflight, Human Form (Drawn by ???)
-
-![[quartz/public/Special-Folders/Attachments/sunflight-sketch.png]]
+**Recent Sunflight Sketch (by ???)**
+![[sunflight-lunarjaguar.png]]
 ***
+**Sunflight flying with ??? (by ???)**
+![[sunflight-flying-art.jpeg]]
+***
+**Swingshot, Sunflight's weapon (by ???)**
+![[swingshot-1.jpeg]]
+***
+**Swingshot side view 1 (by ???)**
+![[swingshot-side-view-1.jpeg]]
+***
+**Swingshot side view 2 (by ???)**
+![[swingshot-side-view-2.jpeg]]

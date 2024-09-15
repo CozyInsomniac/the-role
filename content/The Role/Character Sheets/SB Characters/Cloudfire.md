@@ -67,9 +67,9 @@
 - **Misc. / Trivia:** 
 ***
 # Gallery
-```litegal
-[[cloudfire-old-image.png]]
-[[cloudfire-lunarjaguar.jpeg]]
-```
+**Cloudfire's old "Snow" design (by LunarJaguar)** 
+![[cloudfire-old-image.png]]
+***
+**Cloudfire's current design (by LunarJaguar)**
+![[cloudfire-lunarjaguar.jpeg]]
 
-*All images drawn by [LunarJaguar](https://cara.app/lunarjaguar/all)*
