@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to The Role
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This site contains information about The Role. See the sidebar for all documents.
