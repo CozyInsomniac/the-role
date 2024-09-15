@@ -2,7 +2,7 @@
 title: Welcome to The Role
 ---
 
-**EVERYTHING IS WIP SO FAR. EXPECT UNFINISHED PAGES.**
+**EVERYTHING IS WIP. EXPECT UNFINISHED PAGES.**
 
 ---
 # Overview
