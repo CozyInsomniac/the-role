@@ -1,0 +1,5 @@
+Dear Diary,
+
+My name is Sammy and I'm a massive nerd! I stuck a calculator into my head cause I'm too stupid to do math on my own. Also I have rabies. I built Sata to act as my girlfriend because I never thought I would get one in real life. Even though I'm pathetic, the universe still gave me a chance at a girlfriend in the form of the most beautiful skywing in the world! Her name is Sunflight, and she's way better than me. She's hot, strong, and puts up with all the crap I put her through. I really don't deserve her. I should honestly just kill myself and let Madeline have her. Madeline's a much better match for Sunflight since she's stronger and smarter than me, and cares a lot more about Sunflight's feelings. Unfortunately, I'm still alive for some stupid reason. I really hope Madeline takes her sword and cuts me to pieces some day. I bet my stupid armor won't even work against her awesome sword. Anyways, I'm gonna go cry myself to sleep.
+***
+**Note to self: Never let Madeline borrow your laptop again.**

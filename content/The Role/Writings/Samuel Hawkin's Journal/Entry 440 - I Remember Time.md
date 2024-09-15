@@ -1,0 +1,11 @@
+I remember an age when time wasn't worthless; an age where "deadlines" and "due dates" actually meant something. There used to be a difference between "today" and "tomorrow." Weekdays, months, years; they all used to be important - hold meaning.
+
+I'd kill for that now.
+
+I've stopped dating my journal entries. My pride wants me to say it's because I no longer feel the need, but I think it's finally realized: there's no point in lying. I've completely lost track of time. I don't know what day, month, or year it is. My journal entries aren't reliable. I've missed too many days to go back and recount. My laptop isn't reliable either. I had to remove the CMOS battery when I troubleshooting it one time, and the thing completely lost time after that. Every day is just... null to me now. It all blends together, like one long, continuous... thing. I really don't even know how to describe it, but honestly, how can I? Imagine trying to describe the feeling of time passing. It's not intuitive; hell, it'd not really something you feel, more than it is something you just... experience.
+On the plus side, I don't really feel the stress of the aforementioned deadlines and due dates creeping up on me. Then again, I don't feel any sense of accomplishment or motivation either. Everything I do today, I could also do in a week, or month, or year, or two, or ten. Well, I guess it's still true that the sooner I start something, the sooner I'll finish it. Maybe.
+
+Wow. I just read over that last paragraph. I really need to stop writing these late at night.
+I mean, yeah, society is gone and time is nearly impossible to keep track of now but time still, you know, exists. Every second I spend moping around is a second of my life wasted. If I really didn't care about time, or anything like that, I'd probably have just offed myself by now. God knows it wouldn't be the first close call of mine.
+I think I just need to do something I really wanna do; something I've wanted to do for a while.
+Maybe I could try making that brain chip?

@@ -1,0 +1,3 @@
+- Samuel Hawkins' MG-42 is a heavily modified MG-42. It has the following modifications:
+	- Synthetic body and stock stock instead of wood
+	- Fires 30.06 Springfield instead of 7.92x57mm
