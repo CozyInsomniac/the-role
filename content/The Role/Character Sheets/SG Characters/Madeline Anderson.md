@@ -84,7 +84,7 @@
 
 ## Images
 ### Pre Starved Edge
-![[madeline-before.png]]
+![[quartz/public/Special-Folders/Attachments/madeline-before.png]]
 ***
 ### Post Starved Edge
-![[madeline-after.png]]
+![[quartz/public/Special-Folders/Attachments/madeline-after.png]]

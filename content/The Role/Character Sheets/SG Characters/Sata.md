@@ -100,8 +100,8 @@
 
 ### Male Form
 
-![[sata-male-ai.png]]
+![[quartz/public/Special-Folders/Attachments/sata-male-ai.png]]
 
 ### Female Form
 
-![[sata-female-ai.png]]
+![[quartz/public/Special-Folders/Attachments/sata-female-ai.png]]

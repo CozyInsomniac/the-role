@@ -126,4 +126,4 @@
 
 ## Images
 ### AI-Generated Portrait
-![[stingray-ai-portrait.png]]
+![[quartz/public/Special-Folders/Attachments/stingray-ai-portrait.png]]

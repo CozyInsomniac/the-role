@@ -104,4 +104,4 @@ Towards mid-2024, Sammy finally mustered up the courage to raid Phantech's under
 ## Images
 
 Samuel in his armor
-![[sammy-armor-anime.jpg]]
+![[quartz/public/Special-Folders/Attachments/sammy-armor-anime.jpg]]

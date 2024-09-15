@@ -37,7 +37,7 @@ Orb powers are tied to a User's soul, and thus can technically persist after dea
 - Ability to create a sphere of electricity up to 50 ft in diameter. The sphere will protect the User and strike down any and all projectiles / attacking forces within a 50 ft radius of it.
 
 ### Image
-![[lightning-orb-ai.png]]
+![[quartz/public/Special-Folders/Attachments/lightning-orb-ai.png]]
 * * *
 
 ## Ice Orb
@@ -50,7 +50,7 @@ Orb powers are tied to a User's soul, and thus can technically persist after dea
 - Ability to instantly freeze an organic body via physical contact.
 
 ### Image
-![[ice-orb-ai.png]]
+![[quartz/public/Special-Folders/Attachments/ice-orb-ai.png]]
 * * *
 
 ## Fire Orb
@@ -64,7 +64,7 @@ Orb powers are tied to a User's soul, and thus can technically persist after dea
 - Absolute invulnerability to fire and heat.
 
 ### Image
-![[fire-orb-ai.png]]
+![[quartz/public/Special-Folders/Attachments/fire-orb-ai.png]]
 
 
 
@@ -78,7 +78,7 @@ Orb powers are tied to a User's soul, and thus can technically persist after dea
 - Perfect knowledge on where the moon is located.
 
 ### Image
-![[moon-orb-ai.png]]
+![[quartz/public/Special-Folders/Attachments/moon-orb-ai.png]]
 * * *
 
 ## Dragon Orb
@@ -118,5 +118,5 @@ Orb powers are tied to a User's soul, and thus can technically persist after dea
 - Detailed medicinal knowledge about any person the User is helping, and higher sensitivity to injuries. A User will be able to very effectively diagnose and attempt to treat any Form of injury or sickness in another person. They will be able to detect even more subtle issues, such as an oncoming heart attack or early stage cancer. This medical knowledge / ability does not persist outside of the orb's Form.
 
 ### Image
-![[healing-orb-ai.png]]
+![[quartz/public/Special-Folders/Attachments/healing-orb-ai.png]]
 ***

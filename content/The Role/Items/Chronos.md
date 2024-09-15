@@ -25,7 +25,7 @@
 **Chronos (Lego Render)**
 
 
-![[chronos-lego-render.jpg]]
+![[quartz/public/Special-Folders/Attachments/chronos-lego-render.jpg]]
 > Blue Stud = Projector Screen
 > Green Stud = Medical Flashing Tool
 > Yellow Cone / Grey Spike = Cutting Laser

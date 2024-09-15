@@ -66,8 +66,10 @@
 ***
 - **Misc. / Trivia:** 
 ***
-## Images
-### Cloudfire, Old Version (Name: Snowfall) (Drawn by Lunarjaguar)
-![[cloudfire-old-image.png]]
-### Cloudfire, Current Version (Drawn by Lunarjaguar)
-![[cloudfire-lunarjaguar.jpeg]]
+# Gallery
+```litegal
+[[cloudfire-old-image.png]]
+[[cloudfire-lunarjaguar.jpeg]]
+```
+
+*All images drawn by [LunarJaguar](https://cara.app/lunarjaguar/all)*

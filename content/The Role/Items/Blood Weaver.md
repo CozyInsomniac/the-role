@@ -33,4 +33,4 @@
 ## Images
 
 **Blood Weaver (Lego Render)**
-![[blood-weaver-lego-model.jpg]]
+![[quartz/public/Special-Folders/Attachments/blood-weaver-lego-model.jpg]]

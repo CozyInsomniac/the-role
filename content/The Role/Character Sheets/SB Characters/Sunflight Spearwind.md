@@ -153,31 +153,35 @@
 
 * * *
 
+# Gallery
+```litegal
+sunflight-sketch.png
+```
 ## Images
 ### Sunflight, Human Form, (Drawn by ???)
-![[sunflight-sketch.jpg]]
+![[quartz/public/Special-Folders/Attachments/sunflight-sketch.jpg]]
 ***
 ### Sunflight, Half Form, Age 16 (Drawn by Lunarjaguar)
 
-![[sunflight-lunarjaguar.png]]
+![[quartz/public/Special-Folders/Attachments/sunflight-lunarjaguar.png]]
 
 * * *
 
 ### Sunflight, Dragon Form (Drawn by Stellarfaux)
 
-![[sunflight-flying-art.jpeg]]
+![[quartz/public/Special-Folders/Attachments/sunflight-flying-art.jpeg]]
 
 * * *
 
 ### Swingshot (Drawn by Sparks)
 
-![[swingshot-gif.jpeg]]
+![[quartz/public/Special-Folders/Attachments/swingshot-gif.jpeg]]
 
-![[swingshot-gif-2.jpeg]]
+![[quartz/public/Special-Folders/Attachments/swingshot-gif-2.jpeg]]
 
-![[swingshot-1.jpeg]]
+![[quartz/public/Special-Folders/Attachments/swingshot-1.jpeg]]
 ***
 ### Sunflight, Human Form (Drawn by ???)
 
-![[sunflight-sketch.png]]
+![[quartz/public/Special-Folders/Attachments/sunflight-sketch.png]]
 ***

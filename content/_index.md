@@ -17,4 +17,3 @@ Transcripts before January 6, 2019 are considered lost forever.
 Uncertain details are written in italics and succeeded by a question mark. Ex. (*Uncertain detail here?*)
 
 **See the "Explorer" sidebar for all pages.**
-

@@ -30,7 +30,7 @@ Every day, I sat there - scared, quite, and alone, slowly wasting away inside a 
 
 Until now.
 
-![[wasteland-aftermath.png]]
+![[quartz/public/Special-Folders/Attachments/wasteland-aftermath.png]]
 
 My hometown - what's left of it - was as I remembered. Most buildings had been reduced to heaps of wood, concrete, drywall, and broken glass. Any buildings still standing were either half destroyed, or complete shells of their former selves. Walls and roofs had collapsed, windows and doors were all but gone, and interiors had gone dark, scarcely lit only by stray beams of sunlight. Even with my steel toed boots and thick work gloves, navigating the debris was a hassle. The ground was littered with lose screws, nails, pieces of rusty metal, and plenty of other conveniently sharp objects waiting to stick themselves into my foot. Nearly every piece of wood I touched left a handful of new splinters in my gloves.
 At the very least, I never saw any other people or animals during my trek.
@@ -39,7 +39,7 @@ It took me about half an hour to reach some less treacherous terrain: a road. I 
 
 The trip was a lot lonelier this time.
 
-![[wasteland-school-aftermath.png]]
+![[quartz/public/Special-Folders/Attachments/wasteland-school-aftermath.png]]
 
 I was surprised at how much of my middle school was still left. It was actually still standing, thought I doubt it'll *stay* standing for much longer. I wanted to go inside, but having the place collapse on me would be a death sentence. There wasn't much else to see around the area, and the sun was starting to set, so I headed back to my bunker for the day.
 I'll be honest: the main reason I came out of my bunker was to kill myself. I had had enough of slowly dying *inside* my bunker, so I figured I'd find a way to quickly die *outside* my bunker. Instead, as I walked around the corpse of my former hometown, I started to realize just how much I had been needing to go outside. I swear, I could actually *feel* my mind and body healing. For the first time in nearly a hundred days, I could feel the breeze on my skin and breathe natural air. I probably damaged my eyes for how long I stared at the sun.

@@ -71,4 +71,4 @@
 ***
 ## Images
 ### Skyfall, Human Form (Drawn by ???)
-![[skyfall-portrait.jpg]]
+![[quartz/public/Special-Folders/Attachments/skyfall-portrait.jpg]]
