@@ -4,16 +4,16 @@
 ###########################
 
 [sata@SataOS ~]$ checkStats --time, --place, --task
-	//// Printing Current Status ////
-	Current Time: 16 December 2037 | 2194780800000
-	Current Place:
-		...Dimension: 63281-12930-48923
-		...Planet: Earth
-		...Coords: 36.02893519,-84.63805616
-	Current Task:
-		...Priority: Critical
-		...Status: In Progress
-		...Description: "Collect the nectar of the gods."
+//// Printing Current Status ////
+Current Time: 2194780800000
+Current Place:
+	...Dimension: 63281-12930-48923
+	...Planet: Earth
+	...Coords: 36.02893519,-84.63805616
+Current Task:
+	...Priority: Critical
+	...Status: In Progress
+	...Description: "Collect the nectar of the gods."
 ```
 ***
 Silent as the night around him, Sata practically floats through the dense woods. Against a thick carpet of dead leaves, dried twigs, and occasional branch, his footsteps are quick, yet calculated. His gaze is restless, unblinking eyes darting from tree to tree, each one prompting the same broadcast across the synth's mind:

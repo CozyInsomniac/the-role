@@ -138,7 +138,7 @@
     - Sunflight does not have sweat glands, and thus cannot sweat.
         
     - Sunflight's last name, "Spearwind" was originally the title "The Spear as Swift as the Wind", bestowed to the skywing Queen's guard. As it was passed down the family line, it was shortened, eventually ending up as "Spearwind"
-        
+
     - Sunflight *can* feel heat, but only up to around the temperature of a hot tub. Higher temperatures
         
     - Sunflight has an aunt named Summit
@@ -160,8 +160,12 @@
 **Old Sunflight Sketch 2 (by ???)**
 ![[sunflight-sketch.jpg]]
 ***
-**Recent Sunflight Sketch (by ???)**
+**Sunflight Drawing 1 (by LunarJaguar)**
 ![[sunflight-lunarjaguar.png]]
+***
+**Sunflight Drawing 2**
+![[sunflight-drawing.jpeg]]
+
 ***
 **Sunflight flying with ??? (by ???)**
 ![[sunflight-flying-art.jpeg]]

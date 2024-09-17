@@ -1,5 +1,5 @@
-# Overview
-This document details the different layers of reality contained within The Role.
+# Description
+The layers and rules of reality dictate how the world of The Role is set up, and how those worlds interact.
 ***
 # Layers
 
@@ -11,7 +11,9 @@ This document details the different layers of reality contained within The Role.
 | 4      | The Dreamverse     | Contains all dreams experienced by Characters and Divines and Entities native to those dreams (Ex. Vampires from that one dream Sun had). The Dreamverse has no physical effect on higher layers, unless specified by Authors (Ex. The Dragon Dream).<br>Characters from here are called "**Visions**".<br>Spaces from here are called **Dreams**. |
 | 5      | The Void           | The Void is an infinite expanse of nothing which contains all retconned Characters, Spaces, and Events. Characters, spaces, and Events can only be brought into The Void by the Authors, and, once brought into The Void, are erased from past, present, and future of their respective timelines.                                                 |
 A Character from any layer may be referred to as a "**Character**".
+
 A Space from any layer may be referred to as a **Space**. A **Space** is any specific universe, dimension, world, or location that has been specified to exist in a specific layer.
+
 A happening or action from any layer may be referred to as an **Event**
 ***
 # Rules

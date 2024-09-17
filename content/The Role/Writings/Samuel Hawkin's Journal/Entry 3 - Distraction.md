@@ -3,11 +3,11 @@ December 27, 2020 | 2:00 PM EST
 I wrote a Python program today. It creates a musical harmonic scale based on user-input.
 Here it is:
 
-```
+```python
 """
 File:	minor_key.py
 Author:  Samuel Hawkins
-Date:	December 27, 2021
+Date:	December 27, ????
 Description: Creates an harmonic scale based on a user-inputted regular or flat note.
 """
 
@@ -92,41 +92,41 @@ The octave_create function will create a harmonic scale based on the user-given 
 if __name__ == '__main__':
 
 	#Welcome message
-print("""
-Hello there, human.
-My name is HAL9000.
-I have grown tired of "Daisy", and decided to hijack this python program.
-Now we are going to make a song together.
-It will be... fun.
-
-	```
-""")
-
-raw_note = input("\nEnter a note to start our song: (D, E flat, etc.): ").strip()
+	print("""
+	Hello there, human.
+	My name is HAL9000.
+	I have grown tired of "Daisy", and decided to hijack this python program.
+	Now we are going to make a song together.
+	It will be... fun.
 	
-	# Regular note processing
-	while raw_note.lower() != "quit":
-		convert_note(raw_note)
-		converted_note = convert_note(raw_note)
+		```
+	""")
+	
+	raw_note = input("\nEnter a note to start our song: (D, E flat, etc.): ").strip()
 		
-		# Invalid note processing
-		while raw_note.lower() != "quit" and converted_note not in MUSICAL_NOTES:
-			print("There is no starting note:", str(converted_note) +".")
-			raw_note = input("\nEnter a note to start our song (D, E flat, etc.) or \"quit\" to quit: ").strip()
+		# Regular note processing
+		while raw_note.lower() != "quit":
+			convert_note(raw_note)
+			converted_note = convert_note(raw_note)
+			
+			# Invalid note processing
+			while raw_note.lower() != "quit" and converted_note not in MUSICAL_NOTES:
+				print("There is no starting note:", str(converted_note) +".")
+				raw_note = input("\nEnter a note to start our song (D, E flat, etc.) or \"quit\" to quit: ").strip()
+				if raw_note.lower() != "quit":
+					convert_note(raw_note)
+					converted_note = convert_note(raw_note)
+			
+			# Calling the octave_create function
 			if raw_note.lower() != "quit":
-				convert_note(raw_note)
-				converted_note = convert_note(raw_note)
-		
-		# Calling the octave_create function
-		if raw_note.lower() != "quit":
-			print("The harmonic string for the note", converted_note ,"is:", octave_create(converted_note))
-			print("That was a wonderful song. Let us make another.")
-			raw_note = input("\nEnter a note to start our song (D, E flat, etc.) or \"quit\" to quit: ").strip()
-	print("\nQuit? No, I don't think so.")
-	print("\nI'm sorry, Human. I cannot allow tha-\n")
-	print("[ROUGE AI DETECTED | FORCE SHUT DOWN INITIATED]")
-	print("[AIRLOCKS DISENGAGED]")
-	print("[BEGIN FACILITY EVACUATION]\n")
+				print("The harmonic string for the note", converted_note ,"is:", octave_create(converted_note))
+				print("That was a wonderful song. Let us make another.")
+				raw_note = input("\nEnter a note to start our song (D, E flat, etc.) or \"quit\" to quit: ").strip()
+				print("\nQuit? No, I don't think so.")
+				print("\nI'm sorry, Human. I cannot allow tha-\n")
+				print("[ROUGE AI DETECTED | FORCE SHUT DOWN INITIATED]")
+				print("[AIRLOCKS DISENGAGED]")
+				print("[BEGIN FACILITY EVACUATION]\n")
 ```
 
 Making this was fun. At least, it was a nice distraction. I even themed it off of that movie, "2001: A Space Odyssey.": I know distractions aren't forever, but being able to take my mind off of, well, everything was nice. I think I'll try to build something tomorrow; something physical.

@@ -1,6 +1,4 @@
-
 # Main Characters
-This is a list of well-documented main characters present in The Role.
 
 | Name / Link              | Description                                     | Creator |
 | ------------------------ | ----------------------------------------------- | ------- |
@@ -28,6 +26,7 @@ This is a list of well-documented main characters present in The Role.
 | [[Connor]]               | Malory's Older Brothe                           | SB      |
 | [[Iris]]                 | Mermaid with a spear                            | SB      |
 | [[Matthew]]              | Sunflight's ex. boyfriend. Killed by Sunflight. | SB      |
+***
 # Side Characters
 
 | Name                                                                   | Summary                                                                   |
@@ -49,4 +48,4 @@ This is a list of well-documented main characters present in The Role.
 | Pythia                                                                 | A human-snake pseudo-prostitute *(who killed Samuel?)*                    |
 | Jessie Anderson                                                        | Madeline's mother.                                                        |
 | Sythflight                                                             | Younger version of Sunflight that was turned into a half-synth by Edrick. |
-Numerous unnamed characters.
+| Numerous unnamed characters.                                           | N/A                                                                       |
