@@ -1,1 +1,0 @@
-Omnipotent life hacker. Angel's boyfriend.

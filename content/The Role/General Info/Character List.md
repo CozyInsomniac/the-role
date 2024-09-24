@@ -2,15 +2,14 @@
 
 | Name                     | Summary                                       | Creator |
 | ------------------------ | --------------------------------------------- | ------- |
-| [[Samuel Hawkins]]       | Wasteland wanderer and gun enjoyer.           | SG      |
-| [[Sata]]                 | Synth stolen and reprogrammed by Samuel.      | SG      |
+| [[The Role/Characters/SG Characters Old/Samuel Hawkins]]       | Wasteland wanderer and gun enjoyer.           | SG      |
+| [[The Role/Characters/SG Characters Old/Sata]]                 | Synth stolen and reprogrammed by Samuel.      | SG      |
 | [[Edrick Phronox]]       | Evil half-synth.                              | SG      |
 | [[Madeline Anderson]]    | Girl with a deadly sword.                     | SG      |
 | [[Agnia Chiaro]]         | Madeline's Ex-boyfriend who killed by Edrick. | SG      |
-| [[NecroNyx]]             | Tormentative succubus.                        | SG      |
-| [[Asfiya]]               | Fallen angel.                                 | SG      |
+| [[Necronyx]]             | Tormentative succubus.                        | SG      |
 | [[Karina Duros]]         | Nightwing without the wing.                   | SG      |
-| [[Corvin Williams]]      | Some crow guy                                 | SG      |
+| [[Corvin Woods]]         | Some crow guy                                 | SG      |
 | [[Sunflight Spearwind]]  | Skywing with a mutated firescale.             | SB      |
 | [[Skyfall Spearwind]]    | Sunflight's brother.                          | SB      |
 | [[Solarflare Spearwind]] | Sunflight's half-sister                       | SB      |
@@ -31,21 +30,21 @@
 
 | Name                                                                   | Summary                                                   |
 | ---------------------------------------------------------------------- | --------------------------------------------------------- |
-| [Neopolitan / Trivia Vanille](https://rwby.fandom.com/wiki/Neopolitan) | See Wiki page.                                            |
-| [Ruby Rose](https://rwby.fandom.com/wiki/Ruby_Rose)                    | See Wiki page.                                            |
-| [Yang Xiao Long](https://rwby.fandom.com/wiki/Yang_Xiao_Long)          | See Wiki page.                                            |
-| Apollo                                                                 | God of Sunlight.                                          |
-| Hephaestus                                                             | God of the forge.                                         |
-| Aphrodite                                                              | Goddess of love.                                          |
-| Artemis                                                                | Goddes of the Moon and the Hunt                           |
-| [Cassie Sullivan](https://the5thwave.fandom.com/wiki/Cassie_Sullivan)  | Briefly encountered *(Sunflight?)* in a dream.            |
-| O-Samuel                                                               | Older version of Samuel Hawkins.                          |
+| [Neopolitan / Trivia Vanille](https://rwby.fandom.com/wiki/Neopolitan) | Not Mary Poppins                                          |
+| [Ruby Rose](https://rwby.fandom.com/wiki/Ruby_Rose)                    | Not Little Red Riding Hood                                |
+| [Yang Xiao Long](https://rwby.fandom.com/wiki/Yang_Xiao_Long)          | Not Goldilocks                                            |
+| [Apollo](https://en.wikipedia.org/wiki/Apollo)                         | God of Sunlight                                           |
+| [Hephaestus](https://en.wikipedia.org/wiki/Hephaestus)                 | God of the forge                                          |
+| [Aphrodite](https://en.wikipedia.org/wiki/Aphrodite)                   | Goddess of love                                           |
+| [Artemis](https://en.wikipedia.org/wiki/Artemis)                       | Goddes of the Moon and the Hunt                           |
+| [Cassie Sullivan](https://the5thwave.fandom.com/wiki/Cassie_Sullivan)  | Briefly encountered *(Sunflight?)* in a dream             |
+| O-Samuel                                                               | Older version of Samuel Hawkins                           |
 | O-Sunflight                                                            | An older version of Sunflight                             |
-| Captain Samuel                                                         | AU Samuel who piloted a ship.                             |
-| Navy Seal Samuel                                                       | AU Samuel who worked on the SS Seahawk.                   |
-| Troy Hawkins                                                           | Samuel's deceased older brother.                          |
-| SCP Old Man                                                            | An old man who used to work in the SCP facility.          |
+| Captain Samuel                                                         | AU Samuel who piloted a ship                              |
+| Navy Seal Samuel                                                       | AU Samuel who worked on the SS Seahawk                    |
+| Troy Hawkins                                                           | Samuel's deceased older brother                           |
+| SCP Old Man                                                            | An old man who used to work in the SCP facility           |
 | Pythia                                                                 | A lamia prostitute *(who killed Samuel?)*                 |
-| Jessie Anderson                                                        | Madeline's dead mother.                                   |
+| Jessie Anderson                                                        | Madeline's dead mother                                    |
 | Sythflight                                                             | AU younger Sunflight who Edrick turned into a half-synth. |
 | Numerous unnamed characters.                                           | N/A                                                       |

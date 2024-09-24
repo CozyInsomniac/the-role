@@ -1,1 +1,0 @@
-[[Cirrus Spearwind|Cirrus']] sister. Very pro-Queen Scarlet, and very anti-scavenger.

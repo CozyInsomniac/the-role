@@ -49,7 +49,7 @@ Literally just other human beings. I call them "raiders". They're highly dangero
 ### Synths
 
 **Danger Level:** 10/10
-Think humans, but bullet proof, almost perfectly accurate with a gun, and with absolutely no fear, hesitation, or sense of pain. Synths are pretty recognizable from afar, as they consist entirely of a metal skeleton and a weapon. Their extreme physical strength and accuracy with a gun makes them deadly from all ranges. Oddly enough, they're also surprisingly slow. I guess they don't really need to chase targets down if they can just shoot them from half a mile away. The only synth I've seen up close was that one back during my internship at PhanTech. I believe it was labeled as, "EA-0". I have no idea what the label meant, or even if the thing's still around. Whatever the case, I don't plan on dealing with any synths again any time soon.
+Think humans, but bullet proof, almost perfectly accurate with a gun, and with absolutely no fear, hesitation, or sense of pain. Synths are pretty recognizable from afar, as they consist entirely of a metal skeleton and a weapon. Their extreme physical strength and accuracy with a gun makes them deadly from all ranges. Oddly enough, they're also surprisingly slow. I guess they don't really need to chase targets down if they can just shoot them from half a mile away. The only synth I've seen up close was that one back during my internship at Archon. I believe it was labeled as, "EA-0". I have no idea what the label meant, or even if the thing's still around. Whatever the case, I don't plan on dealing with any synths again any time soon.
 
 * * *
 

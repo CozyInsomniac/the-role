@@ -1,10 +1,10 @@
 ---
 title: Homepage
 ---
-> **Everything is WIP. Expect unfinished pages.**
+> **Everything is work-in-progress and subject to change. Expect unfinished pages and writing mistakes.**
 ***
 # Overview
-**The Role** is an ongoing roleplay that was created between 2015 and 2016 by authors "SG" and "SB". Its main story entails Samuel Hawkins and Sunflight Spearwind's adventures. The Role was / is contributed to via iMessage, SMS, and Signal.
+**The Role** is an ongoing role play that was created between 2015 and 2016 by authors "SG" and "SB". Its main story entails Samuel Hawkins and Sunflight Spearwind's adventures. The Role was / is contributed to via iMessage, SMS, and Signal.
 
 Archived transcripts from January 6, 2019 to April 13, 2022 exist.
 

@@ -6,7 +6,7 @@ I've never seen something so deadly, unpredictable, and downright *tragic* as Sy
 
 And it's my fault she exists.
 
-Let me back up and explain: A few months ago, my mind and consciousness were trapped inside a computer - a digital simulation. I, unknowingly, was at the mercy of whoever controlled that computer. In my case, it was Edrick Phronox, head and CEO of PhanTech; exterminator of my home planet. Without hesitation, Edrick deleted me - literally deleted me. I was taken out of reality. With a simple keystroke, my body, mind, soul, memories - gone.
+Let me back up and explain: A few months ago, my mind and consciousness were trapped inside a computer - a digital simulation. I, unknowingly, was at the mercy of whoever controlled that computer. In my case, it was Edrick Phronox, head and CEO of Archon; exterminator of my home planet. Without hesitation, Edrick deleted me - literally deleted me. I was taken out of reality. With a simple keystroke, my body, mind, soul, memories - gone.
 At least, I thought so.
 I don't know how, but someone or something bought me back into the world. Well, my body at least. My memories were still gone, which is probably why I didn't immediately try to murder Edrick when he came to me.
 I was an idiot.

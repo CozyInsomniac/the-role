@@ -1,1 +1,0 @@
-Nearly omnipotent, invincible Reaper who drives a ghost train.

@@ -1,1 +1,0 @@
-Fae girl with elemental runes / powers and a spear. Cloudfire's girlfriend.

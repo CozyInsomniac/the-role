@@ -2,18 +2,23 @@
 The layers and rules of reality dictate how the world of The Role is set up, and how those worlds interact.
 ***
 # Layers
+## General Terms
+A **character** is a being from any layer.
+A **space** is a location (universe, galaxy, planet, area, town, room etc.) that has been specified to exist in a specific layer.
+An **event** is a natural happening or intentional action done by a character inside of a Space
+A **CSE** is a general term used to refer to any particular character, space, or event.
+A **portal** is a traversable connection between two spaces.  
+## Layer Table
 
 | Number | Name               | Description                                                                                                                                                                                                                                                                                                                                        |
 | ------ | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | The Authors' House | The "top" layer. Contains the Authors' house and the Authors. Characters from here are called "**Authors**".<br>The Space here is called **The Authors' House**.                                                                                                                                                                                   |
-| 2      | The Pantheon       | Contains all divine, demonic, and spiritual Entities and Realities. Characters from here are called "**Divines**".<br>Spaces from here are called **Eternities**                                                                                                                                                                                   |
+| 1      | The Authors' House | The "top" layer. Contains the Authors' house and the Authors.<br>Characters from here are called "**Authors**".<br>The Space here is called **The Authors' House**.                                                                                                                                                                                |
+| 2      | The Pantheon       | Contains all divine, demonic, and spiritual Entities and Realities.<br>Characters from here are called "**Divines**".<br>Spaces from here are called **Eternities**                                                                                                                                                                                |
 | 3      | The Multiverse     | Contains all non-spiritual Realities and Entities.<br>Characters from here are called "**Entities**".<br>Spaces from here are called "**Realities**".                                                                                                                                                                                              |
 | 4      | The Dreamverse     | Contains all dreams experienced by Characters and Divines and Entities native to those dreams (Ex. Vampires from that one dream Sun had). The Dreamverse has no physical effect on higher layers, unless specified by Authors (Ex. The Dragon Dream).<br>Characters from here are called "**Visions**".<br>Spaces from here are called **Dreams**. |
-| 5      | The Void           | The Void is an infinite expanse of nothing which contains all retconned Characters, Spaces, and Events. Characters, spaces, and Events can only be brought into The Void by the Authors, and, once brought into The Void, are erased from past, present, and future of their respective timelines.                                                 |
+| 5      | The Void           | The Void is an infinite expanse of nothing that "contains" all retconned CSEs. A CSE can only go into the void by an Author. Any CSE brought into the void immediately ceases to exist in the past and present of The Role.                                                                                                                        |
 
-A **Character** is a being from any layer.
-A **Space** is a location (universe, galaxy, planet, area, town, room etc.) that has been specified to exist in a specific layer.
-An **Event** is a natural happening or intentional action done by a character inside of a Space
+
 ***
 # Rules
 

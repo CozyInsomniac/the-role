@@ -4,15 +4,15 @@
 ***
 ## Tribes
 
-| Colloquial Name                                              | Scientific Name / Pronunciation                    |
-| ------------------------------------------------------------ | -------------------------------------------------- |
-| [RainWings](https://wingsoffire.fandom.com/wiki/RainWings)   | Draconus Pluvius<br>\[dra-ko-nee-us ploo-vee-əs\]  |
-| [SandWings](https://wingsoffire.fandom.com/wiki/SandWings)   | Draconus Erimos<br>\[dra-ko-nee-us eeh-ree-moes\]  |
-| [SeaWings](https://wingsoffire.fandom.com/wiki/SeaWings)     | Draconus Aqueous<br>\[dra-ko-nee-us ae-kwee-əs\]   |
-| [NightWings](https://wingsoffire.fandom.com/wiki/NightWings) | Draconus Noctis<br>\[dra-ko-nee-us nok-tis\]       |
-| [SkyWings](https://wingsoffire.fandom.com/wiki/SkyWings)     | Draconus Ignis<br>\[dra-ko-nee-us ig-nəs\]         |
-| [MudWings](https://wingsoffire.fandom.com/wiki/MudWings)     | Draconus Gaeas<br>\[dra-ko-nee-us gī-əs\]          |
-| [IceWings](https://wingsoffire.fandom.com/wiki/IceWings)     | Draconus Glacius<br>\[dra-ko-nee-us glae-shee-əs\] |
+| Colloquial Name                                              | Scientific Name / Pronunciation                  |
+| ------------------------------------------------------------ | ------------------------------------------------ |
+| [RainWings](https://wingsoffire.fandom.com/wiki/RainWings)   | Draconus Pluvius<br>*\[dră-kō-nē-əs plü-vē-əs\]* |
+| [SandWings](https://wingsoffire.fandom.com/wiki/SandWings)   | Draconus Erimos<br>*\[dră-kō-nē-əs ēh-rē-mōs\]*  |
+| [SeaWings](https://wingsoffire.fandom.com/wiki/SeaWings)     | Draconus Aqueous<br>*\[ă-kō-nē-əs ae-kwē-əs\]*   |
+| [NightWings](https://wingsoffire.fandom.com/wiki/NightWings) | Draconus Noctis<br>*\[ă-kō-nē-əs nȯk-tis\]*      |
+| [SkyWings](https://wingsoffire.fandom.com/wiki/SkyWings)     | Draconus Ignis<br>\[dră-kō-nē-əs ig-nəs\]        |
+| [MudWings](https://wingsoffire.fandom.com/wiki/MudWings)     | Draconus Gaeas<br>\[dră-kō-nē-əs gī-əs\]         |
+| [IceWings](https://wingsoffire.fandom.com/wiki/IceWings)     | Draconus Glacius<br>\[dră-kō-nē-əs glā-shē-əs\]  |
 
 
 
@@ -65,11 +65,7 @@ Below is a list of features that differentiate a Pyrrhian's human form from a re
 - Pyrrhians have a generally higher alcohol tolerance than humans.
 - All Pyrrhians are omnivores,
 Pyrrhians calorie requirements per day, per tribe:
-
-
-
-
-	- In dragon form 25,000 .
-	- In half form, they require 5,500 calories/day.
-	- In human form, they require 5,000 calories/day.
-	- Particularly large and/or Firescale Pyrrhians require around 50% - 70% more calories per day.
+- In dragon form 25,000 .
+- In hybrid form, they require 5,500 calories/day.
+- In human form, they require 5,000 calories/day.
+- Particularly large and/or Firescale Pyrrhians require around 50% - 70% more calories per day.
