@@ -1,7 +1,7 @@
 > *Quote unavailable.*
 
 
-Sage *\[sāj\]* is a life hacker. They are Angel's partner.
+Sage *\[sāj\]* is a life hacker. They are [[Angel|Angel's]] partner.
 ***
 # Appearance
 N/A

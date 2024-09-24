@@ -1,7 +1,7 @@
 > *Quote unavailable.*
 
 
-Chase *\[chəs\]* is Raven's abusive ex-boyfriend.
+Chase *\[chəs\]* is [[Raven|Raven's]] abusive ex-boyfriend.
 ***
 # Appearance
 N/A

@@ -15,4 +15,3 @@ Transcripts before January 6, 2019 are considered lost forever.
 # Pages of Interest
 - [[Character List|Characters]]
 - [[Layers & Rules of Reality]]
-- 

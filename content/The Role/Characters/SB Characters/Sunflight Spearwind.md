@@ -2,10 +2,9 @@
 
 
 Sunflight Spearwind *\[sən-flīt spēr-wind\]* , now Sunflight Hawkins, is a female skywing with a mutated firescale: She is:
-- Cirrus' and Ember's daughter
-- Skyfall's sister
-- Solarflare's half sister
-- Samuel's wife
+- The daughter of [[Cirrus Spearwind]] and [[Ember Spearwind]]
+- The sister of [[Skyfall Spearwind]]
+- The half sister of [[Solarflare Spearwind]]
 Sunflight, alongside Samuel Hawkins, is one of the two main characters in The Role. She has been through various trials and tribulations, but has come out the other side alive.
 
 Other names for Sunflight include Sun, Sunny, Spearwind, False Firescale, Rose, Scarlet, and Flame Hair.
@@ -34,16 +33,7 @@ Most of the time, Sunflight is fairly shy and quiet, and prefers to be alone. Wh
 - **Combat Proficiency (All Forms)** \- Experienced in ranged, hand-to-hand, and melee weapon combat.
 ***
 # Equipment
-- **Swingshot** \- An axe / shotgun / rifle hybrid made entirely of celestial bronze. As an axe, Swingshot is extremely durable, and razor sharp, capable of effortlessly cutting through nearly any non-magical material. As a firearm, Swingshot is semi-auto, can fire both regular and dust cartridges (most calibers below .50 BMG), and has an internal magazine that can hold up to 9 rounds. It must be reloaded one round at a time. Swingshot has two enchantments applied to it:
-	- 1. Swingshot will always end up near Sunflight when she goes through a portal. 
-	- 2. Swingshot can shift between gun, axe, and canister forms based on temperature applied to it:
-		- $\leq0 \to 189 \degree F$ \- Canister form
-		- $189 \to 197 \degree F$ \- Axe form
-		- $197 \to 209 \degree F$ \- Shotgun form
-		- $\geq209\degree F$ \- Rifle form
-- In shotgun and axe form, Swingshot's blades will stay spread outward, so as to not damage the user's hands when priming the chamber with the cocking mechanism. In sniper form, the blades fold inward to create a pseudo kickstand.
-
-- **Misc Equipment** \- Sunflight keeps at least two knives, a belt full of spare normal and ammo, some snacks, some first aid supplies, some cash, and a blue print and spare parts for Swingshot, should it need repairs. She also wears her mother's earrings on occasion.
+- **[[Swingshot]]** \- An axe / shotgun / rifle hybrid made entirely of celestial bronze.
 ***
 # Biography
 Having hatched with her larger twin brother Skyfall, Sunflight was quickly found out to be a Firescale by her parents. Fearing for her safety, her mother Ember defected from her military post, and fled with Sunflight so that she wouldn’t be used as a weapon. When Sunflight was 5 dragon years (10 human years) old, a rouge Icewing attacked Ember and her while they were out hunting. It was a long and difficult battle, Ember held off the Icewing for Sunflight to flee, but the false Firescale choose to stay and fight. During the fight, Ember was killed, and Sunflight earned the tri-claw mark scar running down her body, but she was able to kill the Icewing. After scattering her mother’s ashes, she tried carrying on with her life. Roughly two dragon years later, she was captured and brought to the capital. Queen Scarlet wanted to break her spirits, so she made her fight in the area. This went on for almost two months until with the aid of the other prisoners, Sunflight was able to escape, sadly the others weren’t so lucky. She fled east, encountering a portal for the first time while flying near the ocean.

@@ -1,7 +1,7 @@
 > *Quote unavailable.*
 
 
-Raven *\[rā-vən\]* is an angel. He is Will's boyfriend.
+Raven *\[rā-vən\]* is an angel. He is [[Will|Will's]] boyfriend.
 ***
 # Appearance
 N/A

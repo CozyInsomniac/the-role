@@ -2,10 +2,10 @@
 
 
 Cirrus Spearwind *\[sē-rəs spēr-wind\]* is military veteran skywing. He:
-- Was the husband of his now-diseased wife Ember
-- Is the father of Skyfall and Sunflight
-- Is the step-father of Solarflare
-- Is the brother of Ember
+- Was the husband of his now-diseased wife [[Ember Spearwind]]
+- Is the father of [[Skyfall Spearwind]] and [[Sunflight Spearwind]]
+- Is the step-father of [[Solarflare Spearwind]]
+- Is the brother of [[Ember Spearwind]]
 
 ***
 # Appearance

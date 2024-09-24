@@ -3,9 +3,9 @@
 
 Skyfall Spearwind *\[skī-fȯl spēr-wind\]* , or just "Sky", is a male skywing.
 He:
-- Is Sunflight and Solarflare's brother
-- Is the son of Cirrus and Ember
-- Is the boyfriend of an unnamed pyrrhian dragon.
+- Is the brother of [[Sunflight Spearwind]] and half brother of [[Solarflare Spearwind]]
+- Is the son of [[Cirrus Spearwind]] and [[Ember Spearwind]]
+- Is the boyfriend of an unnamed [[Pyrrhians|pyrrhian]] dragon.
 ***
 # Appearance
 ## Human Form

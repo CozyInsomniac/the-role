@@ -1,7 +1,7 @@
 > *Quote unavailable.*
 
 
-Cloudfire *\[klau̇-fīr\]* is an albino nightfury from the Barbaric Archipelago. She is Malory's girlfriend.
+Cloudfire *\[klau̇-fīr\]* is an albino nightfury from the Barbaric Archipelago. She is [[Malory|Malory's]] girlfriend.
 ***
 # Appearance
 ## Hybrid Form

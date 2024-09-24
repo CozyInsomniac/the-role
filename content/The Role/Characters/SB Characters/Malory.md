@@ -1,7 +1,7 @@
 > *Quote unavailable.*
 
 
-Malory *\[ma-lō-rē\]* is a fae girl with and Cloudfire's girlfriend.
+Malory *\[ma-lō-rē\]* is a fae girl with and [[Cloudfire|Cloudfire's]] girlfriend.
 ***
 # Appearance
 N/A

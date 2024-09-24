@@ -1,7 +1,7 @@
 > *Quote unavailable.*
 
 
-Matthew *\[math-yü\]* was Sunflight's ex-boyfriend. He was killed by Sunflight.
+Matthew *\[math-yü\]* was [[Sunflight Spearwind|Sunfliht's]]] ex-boyfriend. He was killed by Sunflight.
 ***
 # Appearance
 N/A

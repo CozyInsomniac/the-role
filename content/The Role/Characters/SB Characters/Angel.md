@@ -1,7 +1,7 @@
 > *Quote unavailable.*
 
 
-Angel *\[ān-jəl\]* is a Reaper who drives a ghost train and collects souls of the dead.
+Angel *\[ān-jəl\]* is a Reaper who drives a ghost train and collects souls of the dead. Angel is [[Sage|Sage's]] girlfriend
 ***
 # Appearance
 N/A

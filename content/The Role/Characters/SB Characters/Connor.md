@@ -1,7 +1,7 @@
 > *Quote unavailable.*
 
 
-Connor *\[kȯ-nr\]* is Malory's twin brother.
+Connor *\[kȯ-nr\]* is [[Malory|Malory's]] twin brother.
 ***
 # Appearance
 N/A

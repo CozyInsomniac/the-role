@@ -1,7 +1,7 @@
 > *Quote unavailable.*
 
 
-Summit Spearwind *\[sə-mit spēr-wind\]* is Cirrus' sister.
+Summit Spearwind *\[sə-mit spēr-wind\]* is the sister of [[Cirrus Spearwind]]
 ***
 # Appearance
 N/A

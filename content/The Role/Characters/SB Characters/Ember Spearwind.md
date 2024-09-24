@@ -2,8 +2,8 @@
 
 
 Ember Spearwind *\[em-bər spēr-wind\]* is a skywing. She:
-- Was Cirrus's wife
-- Was Solarflare, Skyfall, and Sunflight's mom 
+- Was the wife of [[Cirrus Spearwind]]
+- Was the mother of [[Skyfall Spearwind]], [[Solarflare Spearwind]], and [[Sunflight Spearwind]] 
 ***
 # Appearance
 N/A
