@@ -4,12 +4,9 @@
 The Primordial Gemstones, also known as "Primes" or "orbs", are a multicolored set of crystals that can grant someone various elemental powers. Each orb is a perfect sphere, is 4 inches in diameter, and weighs exactly 5 lbs. Orbs' colors reflect the element they represent.
 
 * * *
-
 ### Gaining Powers
 Upon physical contact with a person, an orb will have an (often violent) reaction, which will typically be representative of its element. After said reaction, the orb itself will turn completely black and become extremely fragile, while the person who touched the orb (now denoted as the orb's "User" will have gained the orb's power(s). Whether or not an orb will react with a person is hard to predict, and it is thought that the orb itself actually chooses whether or not to react.
-
 * * *
-
 ### Using Powers
 Upon gaining an orb's power, a User will normally also take that orb's **Form**, which causes these effects:
     1.  The User's eye color will change to reflect the orb's color.
@@ -23,7 +20,6 @@ When in an orb's Form, using any of its powers will be physically exerting for t
 Orb powers are tied to a User's soul, and thus can technically persist after death, or between different physical bodies
 
 * * *
-
 ## Lightning Orb
 **Mastering Difficulty:** 6/10
 **Description:** The Lighting orb has a light blue tint and is electrified in appearance. The inside appears to encapsulate a myriad of lightning bolts, arching about the orb. Contact results in the User being struck with a bolt of lightning. This will cause extreme pain (bypassing even heavy armor), but will not damage the User's body. Once struck, the User will most likely black out for a few seconds. Upon waking up, the User's eyes will have changed to a light blue color, along with their personality being drastically warped into a happier, more bubbly version of themselves. Similarly, the User will be more easily surprised or flustered, less fearful overall, and feel less pain overall. The User's reaction time will drastically shorten, and their heart rate will increase to about 115 BPM. Alongside all this, the User will gain a myriad of powers, as well as basic awareness of these powers.

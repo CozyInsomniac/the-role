@@ -1,1 +1,1 @@
-A mashed together "slush" of protons, neutrons, and electrons, all detached from each other. Bonding can be controlled through electromagnetic charges, thus effectively making the material nothing yet everything at once.
+Quantum Slush is a mashed together "slush" of protons, neutrons, and electrons, all detached from each other. Bonding can be controlled through electromagnetic charges, thus allowing the slush to be manipulated into any other material.

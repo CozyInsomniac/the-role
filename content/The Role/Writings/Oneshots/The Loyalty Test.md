@@ -90,7 +90,7 @@ Sunflight froze. Her jaw clenched, hands formed fists. A deep, fiery rage erupte
 
 At least, that's what she had done the *first* time Aphrodite had used this line on her. Now, it was getting old.
 
-"Get some new material. I've heard this one before." The skywing said disinterestedly.
+"Get some new material. I've heard this one before." The Skywing said disinterestedly.
 
 "I'm serious. I even have proof."
 

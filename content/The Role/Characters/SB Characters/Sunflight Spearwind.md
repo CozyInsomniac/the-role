@@ -1,23 +1,23 @@
 > *Tough me again and you lose an arm.* - Sunflight Spearwind
 
 
-Sunflight Spearwind *\[sən-flīt spēr-wind\]* , now Sunflight Hawkins, is a female skywing with a mutated firescale: She is:
+Sunflight Spearwind *\[sən-flīt spēr-wind\]* , now Sunflight Hawkins, is a female [Skywing](https://wingsoffire.fandom.com/wiki/Skywings) with a mutated [firescale](https://wingsoffirefanon.fandom.com/wiki/Special_Scales_Dragons#Incomplete_Firescales_): She is:
 - The daughter of [[Cirrus Spearwind]] and [[Ember Spearwind]]
 - The sister of [[Skyfall Spearwind]]
 - The half sister of [[Solarflare Spearwind]]
-Sunflight, alongside Samuel Hawkins, is one of the two main characters in The Role. She has been through various trials and tribulations, but has come out the other side alive.
+Sunflight, alongside [[Samuel Hawkins]], is one of the two main characters in The Role. She has been through various trials and tribulations, but has come out the other side alive.
 
-Other names for Sunflight include Sun, Sunny, Spearwind, False Firescale, Rose, Scarlet, and Flame Hair.
+Other names for Sunflight include: Sun, Sunny, Spearwind, False Firescale, Rose, Scarlet, and Flame Hair.
 ***
 # Appearance
 ## Human Form
 In human form, Sunflight has long, bright red hair, amber eyes with draconic pupils, pointed ears, and a slightly underweight build. She stands at 5'10". Her skin is pale with a slight yellow hue, and is clear of any freckles or moles. She has several faded scars on her wrists and side of her stomach, as well as a tri-claw mark running down her body. Normally, Sunflight wears a red, t-shirt, brown bomber jacket, brown jeans held up with a dark red belt, a dragon-shaped ruby necklace, a celestial bronze arm guard, and a pair of brown, steel-toed combat boots.
 
 ## Hybrid Form
-Sunflight's hybrid form looks the same as human form, but with the addition of skywing-themed wings, horns, and tail.
+Sunflight's hybrid form looks the same as human form, but with the addition of Skywing-themed wings, horns, and tail.
 
 ## Dragon Form
- In dragon form, Sunflight looks like a typical skywing, albeit significantly smaller in size. From snout to tail, she is about 27 feet long.
+ In dragon form, Sunflight looks like a typical Skywing, albeit significantly smaller in size. From snout to tail, she is about 27 feet long.
 ***
 # Personality
 Most of the time, Sunflight is fairly shy and quiet, and prefers to be alone. When provoked, however, she can become aggressive, reckless, overconfident, and stubborn, and is unlikely to back down from a fight. She has PTSD and some forms of anxiety, and rarely shows affection to people, save for those she wholeheartedly trusts.
@@ -34,6 +34,11 @@ Most of the time, Sunflight is fairly shy and quiet, and prefers to be alone. Wh
 ***
 # Equipment
 - **[[Swingshot]]** \- An axe / shotgun / rifle hybrid made entirely of celestial bronze.
+- **$\geq 2$ Two knives**
+- **Spare ammo**
+- **First aid supplies**
+- **Cash**
+- **Swingshot blueprint and spare parts**
 ***
 # Biography
 Having hatched with her larger twin brother Skyfall, Sunflight was quickly found out to be a Firescale by her parents. Fearing for her safety, her mother Ember defected from her military post, and fled with Sunflight so that she wouldn’t be used as a weapon. When Sunflight was 5 dragon years (10 human years) old, a rouge Icewing attacked Ember and her while they were out hunting. It was a long and difficult battle, Ember held off the Icewing for Sunflight to flee, but the false Firescale choose to stay and fight. During the fight, Ember was killed, and Sunflight earned the tri-claw mark scar running down her body, but she was able to kill the Icewing. After scattering her mother’s ashes, she tried carrying on with her life. Roughly two dragon years later, she was captured and brought to the capital. Queen Scarlet wanted to break her spirits, so she made her fight in the area. This went on for almost two months until with the aid of the other prisoners, Sunflight was able to escape, sadly the others weren’t so lucky. She fled east, encountering a portal for the first time while flying near the ocean.
@@ -55,18 +60,19 @@ Having hatched with her larger twin brother Skyfall, Sunflight was quickly found
 - Sunflight is can speak fluent English, French, German, and Dragon.
 - Unlike her father, and most other dragons, Sunflight does not consider human beings (or "scavengers" as dragons know them) to be below her.
 - If Sunflight were not a firescale and a runt, she and her brother, Skyfall, could be mistaken for identical twins.
+- Sunflight occasionally wears her mother's earrings.
 - Sunflight's body literally burns off viruses before her immune system can learn how to fight them off naturally. This means that she's extremely resistant to infection, but her immune system is very weak.
 - Because she is a firescale, Sunflight, when extremely angry or scared, can produce blue flames that are hotter than her normal orange flames, but do not last long. Her brother, Skyfall, cannot do this, as he is not a firescale.
 - Sunflight is not completely heat proof. Her fire resistance has its limits around $2,900 \degree F$, or around the temperature white flames appear naturally.
 - Swingshot, was designed by Sunflight when she was 13 human years (6.5 dragon years) old, and built by the Greek god Hephaestus. Swingshot was originally just an axe, but Sunflight upgraded and changed it as she got older.
-- On her nightstand at home, Sunflight has a stuffed dragon made of cloth and filled with sand, dyed to look like a skywing.
+- On her nightstand at home, Sunflight has a stuffed dragon made of cloth and filled with sand, dyed to look like a Skywing.
 - Sunflight and Skyfall share the same blood type, however Sunflight's blood has a higher oxygen concentration, this making it more flammable.
 - Sunflight's DNA is shaped like a quadruple helix, with six base pairs instead of four.
 - Sunflight discovered her human form when she fell through a portal into a city, and was forced into it.
 - Sunflight is very bad at understanding and playing video games. Fast-paced FPS games make her head hurt, and she avoids rhythm games with a passion.
 - As a side-effect of her mutated firescale, Sunflight is not affected by spicy foods / capsaicin.
 - Sunflight does not have sweat glands, and thus cannot sweat.
-- Sunflight's last name, "Spearwind" was originally the title "The Spear as Swift as the Wind", bestowed to the skywing Queen's guard. As it was passed down the family line, it was shortened, eventually ending up as "Spearwind
+- Sunflight's last name, "Spearwind" was originally the title "The Spear as Swift as the Wind", bestowed to the Skywing Queen's guard. As it was passed down the family line, it was shortened, eventually ending up as "Spearwind
 - Sunflight *can* feel heat, but only up to around the temperature of a hot tub. Higher temperatures
 - Sunflight has an aunt named Summit
 - Sunflight will occasionally forget that humans can’t eat bones, and will do so while eating ribs or steak.

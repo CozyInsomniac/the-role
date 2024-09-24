@@ -1,36 +1,52 @@
 ## Description
+Blood Weaver is the hell-forged demonic sword of choice for [[Madeline Anderson|Madeline]]. It exists in a parasitic relationship with her, as it  
 
-### Dimensions & Appearance
-- Blood Weaver is exactly 66.6 inches in total length, and 17 inches in total width. It's blade is 50 inches long, 13 inches wide, and 1 inch thick. The weapon's grip and cross guard are, in total, 16.6 inches long, and 17 inches wide (at their widest points). Blood weaver weighs 400 lbs.
-- Appearance wise, Blood Weaver resembles an over-sized claymore. It's main colors are red, black, and purple. Along with it's exaggerated dimensions, Blood Weaver has a very unconventional appearance compared to regular sword. It's pommel is made of a mix of an black and purple Damascus steel. The pommel has two medium spikes jutting out towards the bottom of the sword, and two smaller purple spikes jutting towards the top. The sword's grip sports a spiral striped pattern of purple, black, and translucent red. It's cross guard is also made of black Damascus steel, and is somewhat oval-shaped. It is hollow, save for a decorative eye in the center of the cross guard, along with two translucent purple, medium spikes - one jutting up and one jutting down - on either side of the cross guard. Blood Weaver's blade is translucent is appearance, and is made of Helosite - thin sheets of quartz forged with blood of fallen angels, and polished to near perfection. The blade has multiple large veins of bright red blood running though it, each of which seem to connect to the blade's edges. Running along the blade's edges are thin, decorative lines of red and purple.
+### Appearance
+#### Specs
 
+| Spec                            | Measurement |
+| ------------------------------- | ----------- |
+| Weight                          | 17 lbs      |
+| Total length                    | 66.6 inches |
+| Total width                     | 17 inches   |
+| Total thickness                 | 1.5 inches  |
+| Blade length                    | 50 inches   |
+| Blade width                     | 13 inches   |
+| Blade width                     | 1 inch      |
+| Grip / cross guard total length | 16.6 inches |
+| Grip / cross guard total width  | 17 inches   |
+
+#### Physical Appearance
+Blood Weaver resembles an oversized gladius with an exaggerated pommel and crossguard. I's main colors are red, black, and purple. The sword's pommel is made of a mix of an black and purple Damascus steel and crystallized blood. The pommel and has two medium spikes jutting out towards the bottom of the sword, and two smaller purple spikes jutting towards the top. The grip sports a spiral striped pattern of the purple and black Damascus stee, and the translucent red of crystallized blood. Blood Weaver's cross guard is made of black Damascus steel, and is somewhat oval-shaped. It is hollow, save for a decorative eye in its center, and two translucent purple, medium spikes - one jutting up and one jutting down - on either side. Blood Weaver's blade is translucent, and is made of Helosite - thin sheets of quartz forged with blood of fallen angels, and polished to near perfection. The blade has multiple large veins of blood running though it, and connecting to the blade's edges. The veins will get slightly thicker or thinner depending on the amount of blood that the sword has collected. Running along the blade's edges are thin, decorative lines of red and purple.
 * * *
-
 ## Powers / Abilities
-- Blood weaver has been enhanced with several enchantments
-
-- **Durability and Regeneration:** Blood Weaver is indestructible against non-divine materials, and extreme durability durable against divine materials. It can also regenerate damaged parts of itself, costing about 1 adult human body's worth of blood to regenerate 1 cubic inch of material.
-- **Cutting Power** - Blood Weaver has a razor sharp and self-refining / repairing edge. This, combined with its extreme durability and the enhanced strength of its user means Blood Weaver can effortlessly cleave through any non-divine barrier or force. This includes physical or magical barriers, force fields, and even other self-healing materials, the latter of which Blood Weaver has a nullifying effect on.
-- **Blood Magic:** Blood Weaver can absorb massive amounts of blood at a time, store a seemingly infinite amount of it, and utilize said blood to heal itself, its user, and anyone it's user wants to heal. When blood is absorbed, it appears to be sucked into the blade's edges, through the blade's veins, and into the sword's eye. In some cases, Blood Weaver's healing abilities can revive the recently deceased. 
-- **False Telekinesis:** Blood Weaver can be either physically or telepathically wielded by its User. Similarly, it can be "holstered" anywhere on the User's body, where it will simply closely float next to it's holstered location.
-- **Portal Opening:** Blood Weaver can be used to open or close portals with one swing of its blade. Portals can be opened absolutely anywhere, and can be used to travel through, between, or even beyond time, space, dreams, etc. This portal-opening ability can be combined with its False Telekinesis ability.
-- **Summoning:** Combining its Portal Opening and False Telekinesis Abilities, Blood Weaver can be summoned at any time from anywhere by its User.
-- **Weightlessness:** Though Blood Weaver weights a total of 400 lbs, it will feel weightless to its User.
-- **Self Protection:** While Blood Weaver can be picked up by people other than its User, it will very rapidly drain the blood supply of said non-Users, causing intense pain and nausea, and can very quickly lead to death. This applies to both divine and non-divine entities.
-- **User Enhancement:** Blood Weaver's current User will gain superhuman strength and speed, as well as limitless stamina, an extremely potent healing factor, and inability to feel pain. Similarly, Blood Weaver is constantly cycling its User's blood supply with clean, and oxygenated blood from its storage. This indirectly grants the user an extremely high alcohol tolerance, no need to breathe, and immunity to disease.
+All powers listed below apply only when Blood Weaver has an ample supply of blood.
+- **Positive Effects**
+	- **Indestructibility** - Blood Weaver cannot be physically damaged or destroyed.
+	- **Cutting Power** - Blood Weaver can effortlessly cleave through any non-divine barrier or force, including physical or magical barriers, force fields, and even other self-healing materials, the latter of which Blood Weaver has a nullifying effect on.
+	- **Blood Magic:** Blood Weaver can absorb and store endless amounts of blood without changing its own weight. Absorbed blood appears to be appears to be sucked into the blade's edges, and pumped through its veins.
+	- **Pseudo Telekinesis** - Blood Weaver can be telepathically summoned, wielded, and stored by its user. When stored on its user's body, Blood Weaver will simply float in place. 
+	- **Portal Opening:** Blood Weaver can be used to open portals to The Pantheon, or any layers below it.
+	- **Weightlessness:** Blood Weaver feels weightless to its user, despite weighing 17 lbs.
+	- **Self Protection:** Blood Weaver causes intense physical pain to anyone who picks it up by the hilt and is not its user.
+	- **User Enhancement:** Blood Weaver grants its user superhuman strength, speed, and stamina, as well as a potent healing factor, pain nullification, and blood cleansing. This means Blood Weaver's user does not need to breathe, and cannot become intoxicated from drugs or alcohol.
+	- **Nutrition** - Blood Weaver's user does not need to eat thanks to constantly circulating blood.
+- **Negative Effects**
+	- **Memory Destruction** - Blood Weaver, upon choosing a user, will scramble the user's mind and drive them insane. The longer one is a user of Blood Weaver, the less they will remember of their life before they became Blood Weaver's user.
+	- **Sleeplessness** - Blood Weaver prevents its user from sleeping.
+	- **Death** - If Blood Weaver runs out of blood, its host will starve to death.
+	- **Sterilization** - Blood Weaver sterilizes its user upon choosing them. For female users, all egg cells in their ovaries are immediately killed. For male users, all sperm cells are immediately killed, and more are prevented from being created.
+	- **Unity** - Blood Weaver will immediately kill every alternative version of its user everywhere else in The Multiverse upon being picked up.
+	- **Bipolarism** - Blood Weaver will actively corrupt and manipulate its user's feelings and memories, resulting in often erratic behavior.
+	- **Red Eyes** - Blood Weaver causes its hosts eyes to turn Blood Red.
 
 * * *
 
 ## Trivia
-
-- Blood Weaver cannot absorb the blood of its own user.
 - A good number of Blood Weaver's powers and abilities can be combated by divine beings. For example, Blood Weaver's User can feel pain if attacked by a god or demon.
-- Once a person becomes Blood Weaver's User, every other version / iteration of that person in all other dimensions / realities / timelines will die. Similarly, the User will immediately and permanently become sterile. Another downside is the fact that Blood Weaver will severely corrupt and change the User's personality and memories.
-- Blood Weaver's user will lose their need for and ability to sleep.
 - Each different blood that Blood Weaver absorbs has a unique flavor to it. Blood Weaver's User can physically taste and develop preferences between each flavor.
-- Blood Weaver can create portals to and from The Dreamverse
 ***
 ## Images
 
 **Blood Weaver (Lego Render)**
-![[quartz/public/Special-Folders/Attachments/blood-weaver-lego-model.jpg]]
+![[blood-weaver-lego-model.jpg]]

@@ -6,5 +6,3 @@
 		- $197 \to 209 \degree F$ \- Shotgun form
 		- $\geq209\degree F$ \- Rifle form
 - In shotgun and axe form, Swingshot's blades will stay spread outward, so as to not damage the user's hands when priming the chamber with the cocking mechanism. In sniper form, the blades fold inward to create a pseudo kickstand.
-
-- **Misc Equipment** \- Sunflight keeps at least two knives, a belt full of spare normal and ammo, some snacks, some first aid supplies, some cash, and a blue print and spare parts for Swingshot, should it need repairs. She also wears her mother's earrings on occasion.

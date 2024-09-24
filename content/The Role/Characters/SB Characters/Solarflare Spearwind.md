@@ -1,7 +1,7 @@
 > *Quote unavailable.*
 
 
-Solarflare Spearwind *\[sō-lər-fler spēr-wind\]* is a female skywing-sandwing hybrid. She is:
+Solarflare Spearwind *\[sō-lər-fler spēr-wind\]* is a female Skywing-Sandwing hybrid. She is:
 - The half sister of [[Sunflight Spearwind]]
 - The daughter of [[Ember Spearwind]] and an unnamed dragon
 ***

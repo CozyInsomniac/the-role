@@ -1,7 +1,7 @@
 > *Quote unavailable.*
 
 
-Skyfall Spearwind *\[skī-fȯl spēr-wind\]* , or just "Sky", is a male skywing.
+Skyfall Spearwind *\[skī-fȯl spēr-wind\]* , or just "Sky", is a male Skywing.
 He:
 - Is the brother of [[Sunflight Spearwind]] and half brother of [[Solarflare Spearwind]]
 - Is the son of [[Cirrus Spearwind]] and [[Ember Spearwind]]
@@ -35,7 +35,7 @@ N/A
 ***
 # Trivia
 - Skyfall is afraid of fire due to past trauma.
-- Skyfall's fire breath is weaker than the average skywing.
+- Skyfall's fire breath is weaker than the average Skywing.
 - Skyfall's voice is extremely deep and rich compared to other humans.
 - Skyfall enjoys minty foods, and dislikes spicy foods.
 - Skyfall does not like drunk people or being dunk (with the exception of Solarflare)

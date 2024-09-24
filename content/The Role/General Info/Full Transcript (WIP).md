@@ -15,7 +15,7 @@ Sunflight stretches out on top on Sammy, playfully ruffling his hair 
 Malory looks at the signs, and being rebellious, grabs Snow’s hand and races off to find the ball of spikes.
 ***
 **SG:**
-Sammy looks up with a raised eyebrow and a small smirk at the skywing, he too also standing up and brushing some sand out of his hair.
+Sammy looks up with a raised eyebrow and a small smirk at the Skywing, he too also standing up and brushing some sand out of his hair.
 ***
 **SB:**
 Sunflight smiles, giving Sammy a quick kiss before scooping him up in her arms and taking flight. 
@@ -79,7 +79,7 @@ Raven reluctantly lets the doctor draw blood.
 Sammy watches the landscape below, his focus darting from building to building. It never ceases to amaze him how civilizations could pop up in seemingly any place at any time. "Hey Sun?" He asks, "Do you think our older selves live in only one place, or do you think they perhaps travel the portal multiverse, like us?"
 ***
 **SB:**
-“I don’t know.” The skywing answers, swooping a bit lower to let Sammy get a better look at the city. “I guess we’ll just have to live our lives to find out.”
+“I don’t know.” The Skywing answers, swooping a bit lower to let Sammy get a better look at the city. “I guess we’ll just have to live our lives to find out.”
 
 Raven flinches a little at the doctor’s needle, but forces himself to stay still, less he risk cutting open an artery.
 ***

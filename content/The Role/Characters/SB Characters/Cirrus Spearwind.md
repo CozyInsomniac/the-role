@@ -1,7 +1,7 @@
 > *Quote unavailable.*
 
 
-Cirrus Spearwind *\[sē-rəs spēr-wind\]* is military veteran skywing. He:
+Cirrus Spearwind *\[sē-rəs spēr-wind\]* is military veteran Skywing. He:
 - Was the husband of his now-diseased wife [[Ember Spearwind]]
 - Is the father of [[Skyfall Spearwind]] and [[Sunflight Spearwind]]
 - Is the step-father of [[Solarflare Spearwind]]
@@ -17,7 +17,7 @@ Cirrus is calm, and kind. As a military veteran, he can be assertive when needed
 # Powers and Abilities
 **Combat Mastery** - Cirrus is trained in, and thus very proficient at spear combat.
 **Flight** - As a dragon, Cirrus can naturally fly.
-**Fire Breath** - As a skywing, Cirrus can breathe fire at will.
+**Fire Breath** - As a Skywing, Cirrus can breathe fire at will.
 ***
 # Equipment
 N/A
