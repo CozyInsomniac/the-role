@@ -12,3 +12,4 @@ This page contains Misc. Trivia about The Role.
 - Madeline's last name was originally "Andlerson"
 - Swingshot was inspired by the weapons of [RWBY](https://rwby.fandom.com/wiki/RWBY_Wiki)
 - Samuel and Sunflight's fist kiss was in a cabin in the middle of a snowy area.
+- The Authors cannot create a boulder so heavy that they can't lift it. This is not a limitation of the Authors, but instead a limitation of reality. Given true omnipotence, unliftable boulders cannot exist.

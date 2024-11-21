@@ -18,7 +18,6 @@ Combining Forms generally results in a mixing of eye color and personality shift
 When in an orb's Form, using any of its powers will be physically exerting for the User. Using a power more intensely / for longer will cause more intense feelings of exertion. Should a User be "too tired" to use a Form's powers, they will involuntarily shift out of any presently active orb Forms, and often collapse out of exhaustion afterwards.
 
 Orb powers are tied to a User's soul, and thus can technically persist after death, or between different physical bodies
-
 * * *
 ## Lightning Orb
 **Mastering Difficulty:** 6/10
